@@ -2,15 +2,15 @@ import { Todo } from './todo';
 
 export const todoList: Todo[] = [
   {
-    title: 'Get started Angular',
+    title: '並木さんすげ〜',
     completed: false
   },
   {
-    title: 'Write an article',
+    title: '理解できたのは漆畑が頭が良いからである',
     completed: false
   },
   {
-    title: 'Get the Hikarie',
+    title: '勉強会出席できず、申し訳ありませんでした。',
     completed: true
   }
 ];
